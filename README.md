@@ -1,5 +1,5 @@
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/himanshu-plabs/temo-onboarding](https://vercel.com/new/clone?repository-url=https://github.com/Divyendra-S/temo-onboarding&env=API_KEY,SECRET_KEY&envDescription=API_KEY%20is%20needed%20to%20access%20the%20external%20services,%20SECRET_KEY%20is%20used%20for%20securing%20the%20application&project-name=temo&repository-name=temo-guides
-)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Divyendra-S/temo-onboarding&env=API_KEY,SECRET_KEY&envDescription=API_KEY%20is%20needed%20to%20access%20the%20external%20services,%20SECRET_KEY%20is%20used%20for%20securing%20the%20application&project-name=temo&repository-name=temo-guides)
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
